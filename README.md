@@ -40,3 +40,8 @@ Sou uma Cientista de Dados com formação em Matemática pela UNESP e MBA em Dat
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryannaSilva&layout=compact&langs_count=7&theme=dracula)](https://github.com/MaryannaSilva)
 
 Obs.: Desenvolvo mais no repositório da organização atual.
+
+---
+
+![Snake animation](https://github.com/MaryannaSilva/MaryannaSilva/blob/output/github-contribution-grid-snake.svg)
+
