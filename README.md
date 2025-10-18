@@ -1,4 +1,4 @@
-# Olá, eu sou a Maryanna Conceicao Silva. Bem vindo ao meu perfil 👋
+# Olá, eu sou a Maryanna. Bem vindo ao meu perfil 👋
 
 ### Data Scientist | Analytics | Python
 
