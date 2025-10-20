@@ -41,7 +41,3 @@ Sou uma Cientista de Dados com formação em Matemática pela UNESP e MBA em Dat
 
 Obs.: Desenvolvo mais no repositório da organização atual.
 
----
-
-![Snake animation](https://github.com/MaryannaSilva/MaryannaSilva/blob/output/github-contribution-grid-snake.svg)
-
